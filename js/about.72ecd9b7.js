@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(n,a,t){"use strict";t.r(a);var e=function(){var n=this,a=n.$createElement,t=n._self._c||a;return t("div",{staticClass:"about"},[t("navbar")],1)},s=[],o=t("9d8d"),u={components:{navbar:o["a"]}},c=u,l=t("2877"),r=Object(l["a"])(c,e,s,!1,null,null,null);a["default"]=r.exports}}]);
